@@ -1,0 +1,29 @@
+        body{
+            font-family: "Lucida Console", Monaco, monospace;
+            color:#eff9f9;
+            background-image: url(/Users/nikkistcyr/Documents/GitHub/svc-class-jan-2018/students/Images/background.jpg);
+            background-position: center center;
+            background-attachment: fixed;
+            background-size: contain;
+            background-color: black;
+        }
+        p {
+            font-size: 18px;
+            font-weight: bolder;
+        }
+        ol {
+            font-size: 18px;
+        }
+        h3 {
+            color: #f4b541;
+        }
+        h1 {
+            color:black;
+            background-color: #f442f1;
+        }
+        a:hover {
+            color:aquamarine;
+        }
+        a:visited {
+            color:#bf0f23
+        }
