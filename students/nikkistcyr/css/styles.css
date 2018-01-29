@@ -1,6 +1,6 @@
         body{
             font-family: "Lucida Console", Monaco, monospace;
-            color:#eff9f9;
+            color:#070707;
             background-image: url(/Users/nikkistcyr/Documents/GitHub/svc-class-jan-2018/students/Images/background.jpg);
             background-position: center center;
             background-attachment: fixed;
@@ -10,20 +10,45 @@
         p {
             font-size: 18px;
             font-weight: bolder;
-        }
-        ol {
-            font-size: 18px;
-        }
-        h3 {
-            color: #f4b541;
+            color: #070707;
         }
         h1 {
-            color:black;
             background-color: #f442f1;
+            align-content: center;
         }
         a:hover {
             color:aquamarine;
         }
-        a:visited {
-            color:#bf0f23
+        ol {
+            list-style: none;
+            padding: 10px;
+            font-size: 18px;
         }
+        ul {
+            list-style: none;
+            padding:10px;
+            border: 5px outset #a742f4;
+            margin: 20px;
+            background-color: #dbd0d0;
+            width: 250px;
+            float: right;
+        }
+        h1 {
+            text-align: center;
+            padding: 30px;
+        }
+        img {
+            border-radius: 100%;
+            width: 500px;
+        }
+        head {
+            background-color: #f442f1;
+        }
+       li {
+            border: dotted #f442f1;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 10%;
+            display: inline-block;
+        }
+        
